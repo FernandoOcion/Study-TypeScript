@@ -1,0 +1,21 @@
+{
+	"name": "estudo-devclub",
+	"version": "1.0.0",
+	"description": "Estudo de typescript do curso devclub",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "tsx"
+	},
+	"keywords": [],
+	"author": {
+		"name": "Fernando Ocion",
+		"email": "fernando.ocion@gmail.com",
+		"url": "https://github.com/FernandoOcion"
+	},
+	"license": "ISC",
+	"devDependencies": {
+		"tsx": "^4.19.1",
+		"typescript": "^5.6.2"
+	}
+}
